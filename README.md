@@ -1,58 +1,95 @@
 Banking Loan & Transaction Data Analytics Project
 Project Overview
 
-This project is an end-to-end financial data analytics solution built using two real world datasets:
+This is an end-to-end financial data analytics project built using two real world datasets:
 
-• Banking Loan Data – focused on loan performance, risk analysis and default behavior
-• Debit & Credit Transaction Data – focused on transaction trends, cash flow and risk monitoring
+Banking Loan Dataset
 
-The complete analytics workflow was executed using Excel, SQL, Tableau and Power BI.
+Loan performance
+
+Risk and default analysis
+
+Customer segmentation
+
+Debit and Credit Transaction Dataset
+
+Transaction trends
+
+Cash flow analysis
+
+High-risk activity detection
+
+The complete analytics workflow was performed using Excel, SQL, Tableau and Power BI.
 
 Tools Used
 
-Excel – Data cleaning, KPI creation and dashboards
+Excel – Data cleaning, KPIs, dashboards
 
-SQL – Business analysis queries for both datasets
+SQL – Analytical queries for both datasets
 
 Tableau – Interactive dashboards
 
-Power BI – Professional BI report
+Power BI – Business intelligence reports
 
 Key Analytics Performed
-Banking Loan Dataset
+Banking Loan Data
+
+Branch and state-wise performance
 
 Loan disbursement trends
 
-Branch and state performance
-
-Customer risk and default analysis
+Risk and default metrics
 
 Product and age group segmentation
 
-Loan status and maturity insights
+Loan status analysis
 
-Transaction Dataset
+Transaction Data
 
-Credit vs debit flow analysis
+Credit vs debit analysis
 
 Monthly transaction trends
 
 Branch and bank performance
 
-High-risk transaction detection
+High-risk transaction identification
 
 Growth percentage tracking
 
 KPIs Developed
 
-Loan Amount, Interest, Maturity, Collections, Default Metrics
-Credit Amount, Debit Amount, Net Transactions, Activity Ratio
+Total Loan Amount
 
+Interest and Maturity Values
+
+Collection Metrics
+
+Credit and Debit Totals
+
+Net Transaction Amount
+
+Account Activity Ratio
 
 Project Workflow
 
-Data Cleaning → KPI Creation → SQL Analysis → Tableau Dashboards → Power BI Dashboards
+Data Cleaning in Excel
 
-Skills Demonstrated
+KPI Creation in Excel
 
-Data Cleaning | SQL | Financial Analysis | Dashboard Design | Business Insights | Excel | Tableau | Power BI
+SQL Analysis
+
+Tableau Dashboards
+
+Power BI Dashboards
+
+📚 Skills Demonstrated
+
+Data Cleaning & Transformation
+
+SQL Analytics
+
+Financial Data Analysis
+
+Dashboard Design
+
+Business Insight Generation
